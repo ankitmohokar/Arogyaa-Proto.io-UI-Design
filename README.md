@@ -5,4 +5,4 @@ This data collected will be used to improve the medications provided by the Doct
 This is designed using Proto.io.
 
 In order to run this application:
-Go to: http://webpage.pace.edu/am97811n/ArogyaaFinal/
+Go to: http://webpage.pace.edu/cd29588n/Arogyaa/
